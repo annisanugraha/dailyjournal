@@ -80,7 +80,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <input type="password" name="pass" class="form-control my-4 py-2 rounded-2" placeholder="Password"/>
                             <div class="text-center my-3 d-flex flex-column gap-2">
                                 <button class="btn btn-success rounded-2" type="submit">Login</button>
-                                <a href="webku.php" class="btn btn-success rounded-2">Kembali</a>
+                                <a href="index.php" class="btn btn-success rounded-2">Kembali</a>
                             </div>
 
                         </form>
