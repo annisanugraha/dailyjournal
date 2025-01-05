@@ -73,7 +73,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <a>
                             <img src="img/greetings.jpeg" class="img-fluid p-1 d-block mx-auto" width="125">
                         </a>
-                            <h3 class="text-center mb-4"><b>Welcome to My Daily Journal</b></h3>
+                            <h3 class="text-center mb-4"><b>My Daily Journal</b></h3>
                         </div>
                         <form action="login.php" method="post">
                             <input type="text" name="user" class="form-control my-4 py-2 rounded-2" placeholder="Username"/>
